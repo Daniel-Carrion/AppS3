@@ -14,6 +14,7 @@ namespace AppS3
     {
         public viewDos(string usuario, string clave)
         {
+            //Ejemplo
             InitializeComponent();
             lblUsuario.Text = usuario;
             lblClave.Text = clave;
